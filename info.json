@@ -3,18 +3,12 @@
     "name": "CS2",
     "status": "Undetect",
     "last_update": "2025-09-18",
-    "logo_url": "https://imgur.com/a/mHk3Jmz.png"
+    "logo_url": "https://i.imgur.com/abc123X.png"
   },
   {
     "name": "Valorant",
     "status": "Detect",
     "last_update": "2025-09-15",
-    "logo_url": "https://example.com/valorant_logo.png"
-  },
-  {
-    "name": "CS:GO Legacy",
-    "status": "Undetect",
-    "last_update": "2025-09-18",
-    "logo_url": "https://example.com/csgo_legacy_logo.png"
+    "logo_url": "https://i.imgur.com/def456Y.png"
   }
 ]
