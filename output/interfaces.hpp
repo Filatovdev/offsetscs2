@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-09-19 12:29:01.046377200 UTC
+// 2025-09-20 13:30:17.532368500 UTC
 
 #pragma once
 
@@ -25,7 +25,7 @@ namespace cs2_dumper {
         }
         // Module: crashhandler64.dll
         namespace crashhandler64_dll {
-            constexpr std::ptrdiff_t  = 0xFFFF8005E9230007;
+            constexpr std::ptrdiff_t  = 0xFFFF8001AA290007;
         }
         // Module: engine2.dll
         namespace engine2_dll {

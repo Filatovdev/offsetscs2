@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-09-19 12:29:01.046377200 UTC
+// 2025-09-20 13:30:17.532368500 UTC
 
 namespace CS2Dumper.Interfaces {
     // Module: animationsystem.dll
@@ -20,7 +20,7 @@ namespace CS2Dumper.Interfaces {
     }
     // Module: crashhandler64.dll
     public static class Crashhandler64Dll {
-        public static readonly nint  = unchecked((nint)0xFFFF8005E9230007);
+        public static readonly nint  = unchecked((nint)0xFFFF8001AA290007);
     }
     // Module: engine2.dll
     public static class Engine2Dll {
