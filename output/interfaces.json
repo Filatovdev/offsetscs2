@@ -13,9 +13,6 @@
     "Source2ClientPrediction001": 29232576,
     "Source2ClientUI001": 29308752
   },
-  "crashhandler64.dll": {
-    "": 18446603343370977287
-  },
   "engine2.dll": {
     "BenchmarkService001": 6231456,
     "BugService001": 9067488,

@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-09-20 13:30:17.532368500 UTC
+// 2025-09-22 15:01:40.930012 UTC
 
 #pragma once
 
@@ -22,10 +22,6 @@ namespace cs2_dumper {
             constexpr std::ptrdiff_t Source2ClientConfig001 = 0x1DB64C0;
             constexpr std::ptrdiff_t Source2ClientPrediction001 = 0x1BE0DC0;
             constexpr std::ptrdiff_t Source2ClientUI001 = 0x1BF3750;
-        }
-        // Module: crashhandler64.dll
-        namespace crashhandler64_dll {
-            constexpr std::ptrdiff_t  = 0xFFFF8001AA290007;
         }
         // Module: engine2.dll
         namespace engine2_dll {
