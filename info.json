@@ -1,20 +1,20 @@
 [
   {
+    "last_update": "18.09.25",
+    "logo_url": "https://i.ibb.co/Csz0pwfc/Counter-Strike-2-29.webp",
     "name": "CS2 INTERNAL",
-    "status": "On Update",
-    "last_update": "18.09.25",
-    "logo_url": "https://i.ibb.co/Csz0pwfc/Counter-Strike-2-29.webp"
+    "status": "On Update"
   },
   {
-    "name": "CS2 EXTERNAL",
-    "status": "Undetected",
     "last_update": "29.09.25",
-    "logo_url": "https://i.ibb.co/Csz0pwfc/Counter-Strike-2-29.webp"
+    "logo_url": "https://i.ibb.co/Csz0pwfc/Counter-Strike-2-29.webp",
+    "name": "CS2 EXTERNAL",
+    "status": "Undetected"
   },
   {
-    "name": "Rust External",
-    "status": "On Update",
     "last_update": "18.09.25",
-    "logo_url": "https://i.ibb.co/4nWsgSSR/rust.jpg"
+    "logo_url": "https://i.ibb.co/4nWsgSSR/rust.jpg",
+    "name": "Rust External",
+    "status": "On Update"
   }
 ]
