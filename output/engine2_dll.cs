@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-04 17:54:25.183910400 UTC
+// 2025-10-04 17:55:34.542522 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: engine2.dll
